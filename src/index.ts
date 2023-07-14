@@ -1,2 +1,4 @@
 import useHookEffect from './useHookEffect';
-export { useHookEffect };
+const { useCustomEffect, useAsyncEffect } = useHookEffect;
+
+export { useCustomEffect, useAsyncEffect };

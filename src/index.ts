@@ -1,2 +1,2 @@
-import sum from './example';
-export { sum };
+import useHookEffect from './useHookEffect';
+export { useHookEffect };
